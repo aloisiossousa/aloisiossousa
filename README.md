@@ -1,5 +1,5 @@
 - <h1> Olá, sou Aloísio Sousa</h1>
-- 👀 Tenho interesse em Tecnologia e Educação
+- 👀 Vivendo com Tecnologia e Educação
 - 🌱 Atualmente estou aprendendo frameworks para Javascript
 - Estou procurando colaborar  para o meu desenvolvimento profissional
 - 📫 How to reach me ... @aloisiosousa - aloisio.ssousa@gmail.com - linkerdin - aloisiosousa
