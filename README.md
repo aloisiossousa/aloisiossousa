@@ -2,7 +2,6 @@
 - 💻  📖 Trabalho com Tecnologia e Educação
 - 🌱 Atualmente estou aprendendo frameworks para Javascript
 - Estou procurando colaborar  para o meu desenvolvimento profissional
-- 📫 How to reach me ... @aloisiosousa - aloisio.ssousa@gmail.com - linkerdin - aloisiosousa
 ##
 
 <h3>Tecnologias em Ação</h3>
