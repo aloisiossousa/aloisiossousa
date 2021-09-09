@@ -1,7 +1,7 @@
 - <h1> Olá, sou Aloísio Sousa</h1>
 - 💻  📖 Trabalho com Tecnologia e Educação
-- 🌱 Atualmente estou aprendendo frameworks para Javascript
-- Estou procurando colaborar  para o meu desenvolvimento profissional
+- ⏱️ Atualmente estou aprendendo frameworks para Javascript
+- 🔎 Vamos sempre buscar o desenvolvimento profissional e pessoal - "Se for para cair, vamos cair batendo!!!"
 ##
 
 <h3>Tecnologias em Ação</h3>
